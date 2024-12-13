@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "tag": "tfc:high_quality_cloth"
+    },
+    "H": {
+      "item": "tfc:metal/fish_hook/wrought_iron"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    }
+  },
+  "pattern": [
+    " C ",
+    "LCL",
+    "HC "
+  ],
+  "result": {
+    "item": "tfcsacks:tool_sack"
+  },
+  "show_notification": true
+}

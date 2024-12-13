@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "tfc:burlap_cloth"
+    },
+    "S": {
+      "tag": "forge:string"
+    },
+    "|": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "pattern": [
+    " S ",
+    "B|B",
+    "BBB"
+  ],
+  "result": {
+    "item": "tfcsacks:burlap_sack"
+  },
+  "show_notification": true
+}
